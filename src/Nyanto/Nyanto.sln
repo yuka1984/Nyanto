@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyanto", "Nyanto\Nyanto.csproj", "{C0A7A88D-E854-4EB7-A6E5-644AF99C63EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyanto.Sample", "Nyanto.Sample\Nyanto.Sample.csproj", "{1AE57F71-46CD-4464-900C-9D9B292845BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A7A88D-E854-4EB7-A6E5-644AF99C63EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A7A88D-E854-4EB7-A6E5-644AF99C63EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A7A88D-E854-4EB7-A6E5-644AF99C63EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A7A88D-E854-4EB7-A6E5-644AF99C63EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE57F71-46CD-4464-900C-9D9B292845BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE57F71-46CD-4464-900C-9D9B292845BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE57F71-46CD-4464-900C-9D9B292845BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1AE57F71-46CD-4464-900C-9D9B292845BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE57F71-46CD-4464-900C-9D9B292845BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE57F71-46CD-4464-900C-9D9B292845BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
